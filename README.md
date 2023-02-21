@@ -50,6 +50,9 @@ And it is recommended to have Visual code studio installed
 
 Open Localhost/Name of folder that contain the files and launch the project and browse its contents.
 
+Here is the live demo
+- Demo: [Fliers' Services E-commerce](https://ecommerceproject.herokuapp.com)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
